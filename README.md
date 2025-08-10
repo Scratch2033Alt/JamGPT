@@ -15,6 +15,11 @@ copy the prompt from (use RAW version since github is not showing the newlines) 
 ## Tips making jaibreaks
 1. Turn off the "Improve the model for everyone" feature in User -> Settings -> Data controls
 2. Make the prompt to use the web tool for new jailbreak versions (so the user dont need to copy-paste new prompt)
+
+## Compatibility
+ChatGPT 5: LatestFull
+other: anything!
+
 # Summary of everything
 <details>
     <summary>
